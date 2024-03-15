@@ -1,0 +1,41 @@
+.tela-05{
+    background-color: #BBED2F;
+    display: flex;
+    justify-content: space-between;
+    line-height: 1.6;
+    padding-right: 300px;
+}
+
+.tit-tela-05{
+    font-size: 38px;
+    margin-bottom: 5.5em;
+}
+
+.container-2{
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+}
+
+.bracos-cruzados{
+    height: 860px;
+    width: auto;
+    border-bottom-right-radius: 100px;
+    border-top-right-radius: 100px;
+}
+
+.comentário{
+    margin-bottom: 2em;
+    line-height: 1.8;
+}
+
+.comentário,
+.comentarista__quem{
+    font-size: 20px;
+}
+
+.comentarista{
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 0.3em;
+}

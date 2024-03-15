@@ -1,0 +1,16 @@
+.tela-03{
+    background-color: #4B4B4B;
+    color: white;
+}
+
+.tit-tela-03{
+    font-size: 20px;
+    padding: 200px 0 0 200px;
+}
+
+.quem-sou__tela-03{
+    font-size: 30px;
+    width: 35%;
+    padding: 3em 0 200px 200px;
+    line-height: 1.7;
+}

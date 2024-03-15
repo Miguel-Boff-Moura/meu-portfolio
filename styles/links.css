@@ -1,0 +1,13 @@
+/* Estilos Gerais */
+@import url('style.css');
+@import url('variáveis.css');
+@import url('reset.css');
+
+/* Estilos Específicos */
+@import url('Estilos_Específicos/header.css');
+@import url('Estilos_Específicos/tela-01.css');
+@import url('Estilos_Específicos/tela-02.css');
+@import url('Estilos_Específicos/tela-03.css');
+@import url('Estilos_Específicos/tela-04.css');
+@import url('Estilos_Específicos/tela-05.css');
+@import url('Estilos_Específicos/footer.css');

@@ -1,0 +1,58 @@
+.footer{
+    text-align: center;
+    padding: 6em 0 2em 0;
+    background-color: black;
+    color: white;
+}
+
+.contato__titulo{
+    font-size: 45px;
+}
+
+.contatos{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.container__contatos{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 70px 0 0 100px;
+    width: 60%;
+    text-align: left;
+    font-size: 18px;
+}
+
+.contato__ancora{
+    text-decoration: none;
+    color: white;
+}
+
+.contato__paragrafo{
+    margin-bottom: 3em;
+    line-height: 1.5;
+}
+
+.contato__paragrafo-telefone{
+
+}
+
+.redes{
+    margin-top: 100px;
+    line-height: 1.7;
+}
+
+.icone-redes{
+    height: 40px;
+    width: 40px;
+}
+
+.redes__titulo{
+    font-size: 15.5px;
+}
+
+.redes__ancora{
+    text-decoration: none;
+}
